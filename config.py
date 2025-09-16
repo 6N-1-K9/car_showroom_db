@@ -1,4 +1,5 @@
 host = "localhost"
 user = "postgres"
-password = "2005"
+password = "1234"
+
 db_name = "laba7"
